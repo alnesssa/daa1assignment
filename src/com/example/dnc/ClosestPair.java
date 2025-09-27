@@ -1,3 +1,4 @@
+// Closest pair of points with divide-and-conquer
 package com.example.dnc;
 
 import java.util.Arrays;
