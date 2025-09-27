@@ -1,3 +1,4 @@
+// Metrics counters implementation
 package com.example.dnc.util;
 
 public class Stats {
