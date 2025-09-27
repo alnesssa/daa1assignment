@@ -1,3 +1,4 @@
+// Deterministic select (Median of Medians, group size 5)
 package com.example.dnc;
 
 import com.example.dnc.util.Stats;
