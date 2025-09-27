@@ -1,3 +1,4 @@
+// Utility functions: partition, swap, shuffle, guards
 package com.example.dnc.util;
 
 import java.util.Random;
