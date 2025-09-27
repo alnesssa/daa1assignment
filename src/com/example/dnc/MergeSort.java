@@ -1,3 +1,5 @@
+// MergeSort implementation (baseline + cutoff)
+
 package com.example.dnc;
 
 import com.example.dnc.util.Stats;
