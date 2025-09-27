@@ -1,3 +1,4 @@
+// Quicksort with smaller-first recursion and randomized pivot
 package com.example.dnc;
 
 import com.example.dnc.util.Stats;
