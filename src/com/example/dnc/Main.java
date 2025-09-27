@@ -1,3 +1,4 @@
+// CLI: parse args, run algorithms, emit CSV
 package com.example.dnc;
 
 import com.example.dnc.util.Stats;
